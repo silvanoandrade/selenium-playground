@@ -1,0 +1,62 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# =========================
+# PyCharm / VS Code
+# =========================
+.idea/
+.vscode/
+
+# =========================
+# macOS
+# =========================
+.DS_Store
+
+# =========================
+# Selenium / Drivers
+# =========================
+chromedriver*
+geckodriver*
+msedgedriver*
+
+# =========================
+# Test Reports / Logs
+# =========================
+*.log
+*.html
+*.xml
+*.json
+reports/
+logs/
+
+# =========================
+# Screenshots
+# =========================
+screenshots/
+*.png
+
+# =========================
+# Environment Variables
+# =========================
+.env
+
+# =========================
+# pytest
+# =========================
+.pytest_cache/
+
+# =========================
+# Coverage
+# =========================
+.coverage
+htmlcov/
